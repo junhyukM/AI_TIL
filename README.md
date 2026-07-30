@@ -8,7 +8,7 @@
 ```mermaid
 mindmap
   root((AI Models))
-    Architecture<br/>
+    (Algorithm_Architecture<br/>)
       Rule_based
       Connectionist
         CNN / RNN
@@ -19,7 +19,7 @@ mindmap
         GAN / VAE
       Reinforcement
         Agentic
-    Modality<br/>
+    (Task_and_Modality<br/>)
       Text_NLP
         LLM
         Code
