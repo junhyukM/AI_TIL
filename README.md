@@ -4,6 +4,27 @@
 
 <br>
 
-## 🗺️ Mindmap
-![AI Model Mindmap](./images/markmap.svg)
-- 수정 중
+# 🧠 AI Models
+
+## Algorithm_Architecture
+* Rule_based
+* Connectionist
+  * CNN / RNN
+  * Transformer
+  * SSM / GNN
+* Probabilistic
+  * Diffusion
+  * GAN / VAE
+* Reinforcement
+  * Agentic
+
+## Task_and_Modality
+* Text_NLP
+  * LLM
+  * Code
+* Vision
+  * Image / Video
+  * 3D / Spatial
+* Audio
+* Multimodal
+* Scientific_Bio
