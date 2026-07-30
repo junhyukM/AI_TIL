@@ -1,10 +1,10 @@
-# 🧠 AI Model Taxonomy (AI 모델 분류 사전)
+# 🧠 AI Model 종류
 
-> **💡 Note:** 이 문서는 AI 모델을 작동 방식(아키텍처)과 처리하는 데이터 형태(모달리티)에 따라 구조화한 TIL(Today I Learned) 맵입니다. 파란색 링크를 클릭하면 해당 개념으로 바로 이동합니다!
+> **💡 Note:** 여러 AI 모델들을 경험하다 보니 정리가 필요
 
 <br>
 
-## 🗺️ 전체 시각화 지도 (Mindmap)
+## 🗺️ Mindmap
 ```mermaid
 mindmap
   root((AI Models))
