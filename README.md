@@ -11,7 +11,7 @@ mindmap
     Architecture<br/>(How it works)
       Rule_based
       Connectionist
-        CNN / RNN
+        **CNN:**[CNN?](./docs/CNN.md) / RNN
         Transformer
         SSM / GNN
       Probabilistic
