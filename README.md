@@ -15,19 +15,14 @@
   * Reasoning Frameworks (CoT, ToT, ReAct)
   * Autonomous Agents (Multi-agent 시스템)
 
-### 🎯 Task & Modality (태스크 및 모달리티)
-* **Language & Code** (텍스트 및 코드)
-  * LLM / SLM (소형 언어 모델)
-  * Code Generation & Reasoning
-* **Vision & Spatial** (시각 및 공간)
+### 🎯 Modality 
+* **Language** 
+  * LLM / sLM
+* **Vision** 
   * Image / Video (생성, 인식, 편집)
   * 3D / Spatial (NeRF, 3D Gaussian Splatting, CAD)
-* **Audio** (오디오)
+* **Audio**
   * Speech (STT / TTS)
-  * Music & Sound FX Generation
-* **Multimodal** (멀티모달)
+* **Multimodal**
   * LMM (Large Multimodal Models - Any-to-Any)
-* **Scientific & Real-World** (과학 및 산업 데이터)
-  * Bio / Chemistry (단백질 구조 예측 - AlphaFold 계열)
-  * Time-Series & Tabular (금융, 센서 데이터, 정형 데이터)
-  * Embodied AI & Robotics (로봇 제어, 물리 시뮬레이션)
+
