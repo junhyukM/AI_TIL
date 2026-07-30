@@ -6,3 +6,4 @@
 
 ## 🗺️ Mindmap
 ![AI Model Mindmap](./images/markmap.svg)
+- 수정 중
