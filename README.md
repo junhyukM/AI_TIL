@@ -3,7 +3,7 @@
 ### 🛠️ 1. AI Foundation (기술 기저 및 작동 원리)
 * **1.1 Architecture (신경망 구조 및 뼈대)**
     * 1.1.1 Rule-based & Symbolic
-    * 1.1.2 Connectionist Backbones (MLP, CNN, RNN)
+    * 1.1.2 Connectionist Backbones (MLP, [CNN](./docs/Architecture/Connectionist%20Backbones/CNN.md), RNN)
     * 1.1.3 Attention & Transformers (Dense, MoE)
     * 1.1.4 State Space Models (SSM, Mamba)
     * 1.1.5 Graph Neural Networks (GNN)
